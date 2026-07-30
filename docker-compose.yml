@@ -1,0 +1,6 @@
+services:
+  puc-ml:
+    build: .
+    image: ml
+    working_dir: /app
+    command: python3 -u main.py
