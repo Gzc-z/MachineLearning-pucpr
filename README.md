@@ -4,6 +4,4 @@ O projeto tem como objetivo aprender os principais algoritmos de aprendizado de 
 
 vou ver o que posso fazer com isso.
 
-<sub>
 Esse projeto está sob a licença [MIT](./LICENSE).
-</sub>
