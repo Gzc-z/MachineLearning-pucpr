@@ -4,6 +4,6 @@ O projeto tem como objetivo aprender os principais algoritmos de aprendizado de 
 
 # checklist
 
-# [ ] atualizar o README.md
+* [ ] atualizar o README.md
 
 Esse projeto está sob a licença [MIT](./LICENSE).

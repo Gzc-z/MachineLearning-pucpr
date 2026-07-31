@@ -27,5 +27,5 @@ clean:
 
 
 # workspace
-script:
+s:
 	@$(SCRIPT)
