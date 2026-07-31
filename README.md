@@ -2,6 +2,8 @@
 
 O projeto tem como objetivo aprender os principais algoritmos de aprendizado de máquina e suas aplicações.
 
-vou ver o que posso fazer com isso.
+# checklist
+
+# [ ] atualizar o README.md
 
 Esse projeto está sob a licença [MIT](./LICENSE).
